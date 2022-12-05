@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://akira3111.github.io/csb-i8wspz/static/css/main.eeb2bfe5.chunk.css",
+    "main.js": "https://akira3111.github.io/csb-i8wspz/static/js/main.4f8f4c7d.chunk.js",
+    "main.js.map": "https://akira3111.github.io/csb-i8wspz/static/js/main.4f8f4c7d.chunk.js.map",
+    "runtime-main.js": "https://akira3111.github.io/csb-i8wspz/static/js/runtime-main.87329446.js",
+    "runtime-main.js.map": "https://akira3111.github.io/csb-i8wspz/static/js/runtime-main.87329446.js.map",
+    "static/js/2.0265a039.chunk.js": "https://akira3111.github.io/csb-i8wspz/static/js/2.0265a039.chunk.js",
+    "static/js/2.0265a039.chunk.js.map": "https://akira3111.github.io/csb-i8wspz/static/js/2.0265a039.chunk.js.map",
+    "index.html": "https://akira3111.github.io/csb-i8wspz/index.html",
+    "static/css/main.eeb2bfe5.chunk.css.map": "https://akira3111.github.io/csb-i8wspz/static/css/main.eeb2bfe5.chunk.css.map",
+    "static/js/2.0265a039.chunk.js.LICENSE.txt": "https://akira3111.github.io/csb-i8wspz/static/js/2.0265a039.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87329446.js",
+    "static/js/2.0265a039.chunk.js",
+    "static/css/main.eeb2bfe5.chunk.css",
+    "static/js/main.4f8f4c7d.chunk.js"
+  ]
+}
